@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-27T15:26:18.843Z",
+      "id": 1
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-06-27T15:27:53.849Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "fistName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "fistName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
